@@ -1,5 +1,5 @@
 {
-  "heading": "Fiskerflåden på tværs af alle EU-lande",
+  "heading": "EU's fiskerflåde",
   "subheading": "Antal fiskerfartøjer på tværs af lande i Den Europæiske Union i 2021; Samlet antal i hele EU: 81 071",
   "legend1": "Ingen tilgængelig data",
   "tooltip1": "",
@@ -7,7 +7,7 @@
   "textSource": "Europa-Parlamentet",
   "textNoteDescription": "Bemærk",
   "textNote": "",
-  "textDataAccess": "Få adgang til dataene",
+  "textDataAccess": "Få adgang til data",
   "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/european-fisheries-in-figures",
   "textCountryClick": "Klik for mere info"
 }
