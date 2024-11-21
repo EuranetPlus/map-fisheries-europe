@@ -1,12 +1,12 @@
 {
   "heading": "EU:n kalastuslaivasto",
-  "subheading": "Kalastusalusten määrä Euroopan unionin maissa vuonna 2021; Kokonaismäärä EU:ssa: 81 071",
+  "subheading": "Kalastusalusten 13,5 prosentin vähennys Euroopan unionin maissa vuonna 2024 johtaa yhteensä 70 110:een EU:ssa.",
   "legend1": "Tietoja ei ole saatavilla",
-  "tooltip1": "",
+  "tooltip1": "Kalastusalukset",
   "textSourceDescription": "Lähde",
   "textSource": "Euroopan parlamentti",
-  "textNoteDescription": "Huomautus",
-  "textNote": "",
+  "textNoteDescription": "Huom",
+  "textNote": "EU:n kalastuslaivaston määrä, kapasiteetti ja teho pienenevät.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/european-fisheries-in-figures",
   "textCountryClick": "Napsauta saadaksesi lisätietoja"

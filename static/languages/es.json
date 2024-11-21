@@ -1,13 +1,13 @@
 {
   "heading": "La flota pesquera de la UE",
-  "subheading": "Número de buques pesqueros en los países de la Unión Europea en 2021; Número total en toda la UE: 81 071",
-  "legend1": "Datos no disponibles",
-  "tooltip1": "",
+  "subheading": "Una reducción del 13,5% en los buques pesqueros en los países de la Unión Europea en 2024 se traduce en un número total en la UE de 70 110",
+  "legend1": "No hay datos disponibles",
+  "tooltip1": "Buques de pesca",
   "textSourceDescription": "Fuente",
   "textSource": "Parlamento Europeo",
   "textNoteDescription": "Nota",
-  "textNote": "",
-  "textDataAccess": "Accede a los datos",
+  "textNote": "La flota pesquera de la UE es cada vez más reducida en número, capacidad y potencia.",
+  "textDataAccess": "Acceder a los datos",
   "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/european-fisheries-in-figures",
-  "textCountryClick": "Haga clic para obtener más información"
+  "textCountryClick": "Haga clic para más información"
 }

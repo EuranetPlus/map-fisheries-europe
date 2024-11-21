@@ -1,12 +1,12 @@
 {
-  "heading": "A frota de pesca da UE",
-  "subheading": "Número de embarcações de pesca entre países da União Europeia em 2021; Número total na UE: 81 071",
-  "legend1": "Nenhum dado disponível",
-  "tooltip1": "",
+  "heading": "A frota pesqueira da UE",
+  "subheading": "Uma redução de 13,5% nos navios de pesca nos países da União Europeia em 2024 resulta num número total na UE de 70 110",
+  "legend1": "Não há dados disponíveis",
+  "tooltip1": "Navios de pesca",
   "textSourceDescription": "Fonte",
   "textSource": "Parlamento Europeu",
   "textNoteDescription": "Observação",
-  "textNote": "",
+  "textNote": "A frota pesqueira da UE está diminuindo em número, capacidade e potência.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/european-fisheries-in-figures",
   "textCountryClick": "Clique para mais informações"

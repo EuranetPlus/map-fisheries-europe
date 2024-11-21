@@ -1,12 +1,12 @@
 {
   "heading": "ELi kalalaevastik",
-  "subheading": "Kalalaevade arv Euroopa Liidu riikides 2021. aastal; Koguarv kogu ELis: 81 071",
+  "subheading": "Kalalaevade arvu vähenemine Euroopa Liidu riikides 2024. aastal 13,5% annab kogu ELis 70 110 laeva.",
   "legend1": "Andmed puuduvad",
-  "tooltip1": "",
+  "tooltip1": "Kalalaevad",
   "textSourceDescription": "Allikas",
   "textSource": "Euroopa Parlament",
-  "textNoteDescription": "Märge",
-  "textNote": "",
+  "textNoteDescription": "Märkus",
+  "textNote": "ELi kalalaevastik väheneb arvult, võimsuselt ja võimsuselt.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/european-fisheries-in-figures",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

@@ -1,12 +1,12 @@
 {
   "heading": "EU:s fiskeflotta",
-  "subheading": "Antal fiskefartyg över länder i Europeiska unionen 2021; Totalt antal i EU: 81 071",
-  "legend1": "Ingen data tillgänglig",
-  "tooltip1": "",
+  "subheading": "En minskning med 13,5 % av fiskefartyg i EU:s länder 2024 resulterar i ett totalt antal i EU på 70 110",
+  "legend1": "Inga data tillgängliga",
+  "tooltip1": "Fiskefartyg",
   "textSourceDescription": "Källa",
   "textSource": "Europaparlamentet",
   "textNoteDescription": "Notera",
-  "textNote": "",
+  "textNote": "EU:s fiskeflotta blir mindre i antal, kapacitet och kraft.",
   "textDataAccess": "Få åtkomst till data",
   "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/european-fisheries-in-figures",
   "textCountryClick": "Klicka för mer info"

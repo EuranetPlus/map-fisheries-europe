@@ -1,12 +1,12 @@
 {
   "heading": "Риболовният флот на ЕС",
-  "subheading": "Брой риболовни кораби в държавите от Европейския съюз през 2021 г.; Общ брой в ЕС: 81 071",
-  "legend1": "Няма данни",
-  "tooltip1": "",
+  "subheading": "Намаляване с 13,5% на риболовните кораби в страните от Европейския съюз през 2024 г. води до общ брой в ЕС от 70 110",
+  "legend1": "Няма налични данни",
+  "tooltip1": "Риболовни кораби",
   "textSourceDescription": "Източник",
   "textSource": "Европейски парламент",
   "textNoteDescription": "Забележка",
-  "textNote": "",
+  "textNote": "Риболовният флот на ЕС намалява по брой, капацитет и мощност.",
   "textDataAccess": "Достъп до данните",
   "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/european-fisheries-in-figures",
   "textCountryClick": "Кликнете за повече информация"

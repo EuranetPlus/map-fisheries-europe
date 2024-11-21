@@ -1,12 +1,12 @@
 {
   "heading": "La flotte de pêche de l'UE",
-  "subheading": "Nombre de navires de pêche dans les pays de l'Union européenne en 2021 ; Nombre total dans l'UE : 81 071",
-  "legend1": "Pas de données disponibles",
-  "tooltip1": "",
+  "subheading": "Une réduction de 13,5 % du nombre de navires de pêche dans les pays de l'Union européenne en 2024 se traduit par un nombre total de 70 110 dans l'UE.",
+  "legend1": "Aucune donnée disponible",
+  "tooltip1": "Bateaux de pêche",
   "textSourceDescription": "Source",
   "textSource": "Parlement européen",
   "textNoteDescription": "Note",
-  "textNote": "",
+  "textNote": "La flotte de pêche de l’UE diminue en nombre, en capacité et en puissance.",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/european-fisheries-in-figures",
   "textCountryClick": "Cliquez pour plus d'informations"
