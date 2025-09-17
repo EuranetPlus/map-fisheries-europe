@@ -1,13 +1,13 @@
 {
   "heading": "EU's fiskerflåde",
-  "subheading": "En reduktion på 13,5 % i fiskerfartøjer på tværs af landene i Den Europæiske Union i 2024 resulterer i et samlet antal på 70 110.",
-  "legend1": "Ingen tilgængelige data",
+  "subheading": "En reduktion på 13,5 % i antallet af fiskerfartøjer på tværs af landene i Den Europæiske Union i 2024 resulterer i et samlet antal på 70.110.",
+  "legend1": "Ingen data tilgængelige",
   "tooltip1": "Fiskefartøjer",
   "textSourceDescription": "Kilde",
   "textSource": "Europa-Parlamentet",
   "textNoteDescription": "Note",
-  "textNote": "EU's fiskerflåde bliver mindre i antal, kapacitet og kraft.",
-  "textDataAccess": "Få adgang til data",
+  "textNote": "EU's fiskerflåde bliver mindre i antal, kapacitet og magt.",
+  "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/european-fisheries-in-figures",
-  "textCountryClick": "Klik for mere info"
+  "textCountryClick": "Klik for mere information"
 }

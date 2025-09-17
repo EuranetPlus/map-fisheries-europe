@@ -1,13 +1,13 @@
 {
   "heading": "Az EU halászflottája",
-  "subheading": "A halászhajók számának 13,5%-os csökkentése az Európai Unió országaiban 2024-ben összesen 70 110 hajót eredményez.",
-  "legend1": "Nincs adat",
-  "tooltip1": "Halászhajók",
+  "subheading": "Az Európai Unió országaiban a halászhajók számának 13,5%-os csökkenése 2024-re összesen 70 110-et eredményez.",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltip1": "halászhajók",
   "textSourceDescription": "Forrás",
   "textSource": "Európai Parlament",
   "textNoteDescription": "Jegyzet",
-  "textNote": "Az EU halászflottája létszámát, kapacitását és teljesítményét tekintve egyre csökken.",
+  "textNote": "Az EU halászflottája egyre kisebb, kisebb lesz mind a létszáma, mind a kapacitása, mind a teljesítménye.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/european-fisheries-in-figures",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

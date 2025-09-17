@@ -1,13 +1,13 @@
 {
   "heading": "ES žvejybos laivynas",
-  "subheading": "2024 m. 13,5 % sumažinus žvejybos laivų skaičių visose Europos Sąjungos šalyse, iš viso jų bus 70 110.",
+  "subheading": "2024 m. Europos Sąjungos šalyse žvejybos laivų skaičius sumažės 13,5 %, todėl iš viso jų bus 70 110.",
   "legend1": "Nėra duomenų",
   "tooltip1": "Žvejybos laivai",
   "textSourceDescription": "Šaltinis",
   "textSource": "Europos Parlamentas",
   "textNoteDescription": "Pastaba",
-  "textNote": "ES žvejybos laivyno skaičius, pajėgumas ir galia mažėja.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "ES žvejybos laivynas mažėja skaičiumi, pajėgumu ir galia.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/european-fisheries-in-figures",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

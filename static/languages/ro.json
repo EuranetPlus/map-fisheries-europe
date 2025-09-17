@@ -1,13 +1,13 @@
 {
   "heading": "Flota de pescuit a UE",
-  "subheading": "O reducere de 13,5% a navelor de pescuit în țările Uniunii Europene în 2024 are ca rezultat un număr total de 70 110.",
-  "legend1": "Nu există date disponibile",
+  "subheading": "O reducere de 13,5% a numărului de nave de pescuit în țările Uniunii Europene în 2024 rezultă într-un număr total de 70.110.",
+  "legend1": "Nu sunt disponibile date",
   "tooltip1": "Nave de pescuit",
   "textSourceDescription": "Sursă",
   "textSource": "Parlamentul European",
   "textNoteDescription": "Nota",
   "textNote": "Flota de pescuit a UE este din ce în ce mai mică ca număr, capacitate și putere.",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/european-fisheries-in-figures",
-  "textCountryClick": "Click pentru mai multe informații"
+  "linkDataAccess": "https://www.europarl.europa.eu/factsheets/ro/sheet/122/pescuitul-european-în-cifre",
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

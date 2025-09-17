@@ -2,12 +2,12 @@
   "heading": "La flotta peschereccia dell'UE",
   "subheading": "Una riduzione del 13,5% dei pescherecci nei paesi dell'Unione Europea nel 2024 si tradurrà in un numero totale di 70.110.",
   "legend1": "Nessun dato disponibile",
-  "tooltip1": "Navi da pesca",
+  "tooltip1": "Pescherecci",
   "textSourceDescription": "Fonte",
   "textSource": "Parlamento europeo",
   "textNoteDescription": "Nota",
-  "textNote": "La flotta peschereccia dell'UE sta diventando sempre più piccola in termini di numero, capacità e potenza.",
+  "textNote": "La flotta peschereccia dell'UE sta diminuendo in termini di numero, capacità e potenza.",
   "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/european-fisheries-in-figures",
+  "linkDataAccess": "https://www.europarl.europa.eu/factsheets/it/sheet/122/european-fisheries-in-figures",
   "textCountryClick": "Clicca per maggiori informazioni"
 }

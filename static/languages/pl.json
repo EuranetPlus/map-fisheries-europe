@@ -1,13 +1,13 @@
 {
   "heading": "Flota rybacka UE",
-  "subheading": "Redukcja liczby statków rybackich o 13,5% w 2024 r. we wszystkich krajach Unii Europejskiej oznacza, że ich łączna liczba wyniesie 70 110.",
+  "subheading": "Redukcja liczby statków rybackich we wszystkich krajach Unii Europejskiej o 13,5% do 2024 r. spowoduje, że ich łączna liczba wyniesie 70 110.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "Statki rybackie",
   "textSourceDescription": "Źródło",
   "textSource": "Parlament Europejski",
   "textNoteDescription": "Notatka",
   "textNote": "Flota rybacka UE jest coraz mniejsza pod względem liczebności, pojemności i mocy.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
-  "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/european-fisheries-in-figures",
+  "textDataAccess": "Dostęp do danych",
+  "linkDataAccess": "https://www.europarl.europa.eu/factsheets/pl/sheet/122/europejskie-rybostwo-w-liczbach",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

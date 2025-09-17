@@ -1,13 +1,13 @@
 {
   "heading": "Cabhlach iascaireachta an AE",
-  "subheading": "Is ionann laghdú 13.5% ar shoithí iascaireachta ar fud thíortha an Aontais Eorpaigh in 2024 agus 70 110 san iomlán.",
+  "subheading": "Mar thoradh ar laghdú 13.5% ar líon na soithí iascaireachta ar fud thíortha an Aontais Eorpaigh in 2024, beidh 70,110 soitheach san iomlán ann.",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "Soithí iascaireachta",
   "textSourceDescription": "Foinse",
-  "textSource": "Pharlaimint na hEorpa",
+  "textSource": "Parlaimint na hEorpa",
   "textNoteDescription": "Nóta",
-  "textNote": "Tá cabhlach iascaireachta an AE ag dul i laghad ó thaobh líon, toilleadh agus cumhachta de.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
+  "textNote": "Tá cabhlach iascaireachta an AE ag dul i laghad ó thaobh líon, acmhainne agus cumhachta de.",
+  "textDataAccess": "Rochtain ar na sonraí",
   "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/european-fisheries-in-figures",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

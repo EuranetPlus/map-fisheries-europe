@@ -1,13 +1,13 @@
 {
   "heading": "Il-flotta tas-sajd tal-UE",
-  "subheading": "Tnaqqis ta’ 13.5 % fil-bastimenti tas-sajd madwar il-pajjiżi tal-Unjoni Ewropea fl-2024 jirriżulta f’numru totali ta’ 70 110.",
-  "legend1": "Ebda data disponibbli",
+  "subheading": "Tnaqqis ta' 13.5% fil-bastimenti tas-sajd madwar il-pajjiżi tal-Unjoni Ewropea fl-2024 jirriżulta f'numru totali ta' 70,110.",
+  "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "Bastimenti tas-sajd",
   "textSourceDescription": "Sors",
   "textSource": "Parlament Ewropew",
   "textNoteDescription": "Nota",
-  "textNote": "Il-flotta tas-sajd tal-UE qed tiċkien fin-numru, il-kapaċità u l-qawwa.",
-  "textDataAccess": "Aċċessa għad-data",
+  "textNote": "Il-flotta tas-sajd tal-UE qed tiċkien fin-numru, fil-kapaċità u fil-qawwa.",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/european-fisheries-in-figures",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

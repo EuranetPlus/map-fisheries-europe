@@ -1,13 +1,13 @@
 {
   "heading": "EU:n kalastuslaivasto",
-  "subheading": "Kalastusalusten 13,5 prosentin vähennys kaikissa Euroopan unionin maissa vuonna 2024 johtaa yhteensä 70 110:een.",
-  "legend1": "Tietoja ei ole saatavilla",
+  "subheading": "Euroopan unionin maiden kalastusalusten lukumäärän 13,5 prosentin vähennys vuonna 2024 tarkoittaa yhteensä 70 110:tä.",
+  "legend1": "Ei tietoja saatavilla",
   "tooltip1": "Kalastusalukset",
   "textSourceDescription": "Lähde",
   "textSource": "Euroopan parlamentti",
-  "textNoteDescription": "Huom",
-  "textNote": "EU:n kalastuslaivaston määrä, kapasiteetti ja teho pienenevät.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "EU:n kalastuslaivasto pienenee lukumäärältään, kapasiteetiltaan ja teholtaan.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/european-fisheries-in-figures",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

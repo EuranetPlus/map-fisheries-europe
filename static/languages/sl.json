@@ -1,13 +1,13 @@
 {
   "heading": "Ribiška flota EU",
-  "subheading": "Zmanjšanje za 13,5 % ribiških plovil v državah Evropske unije leta 2024 pomeni skupno število 70 110.",
-  "legend1": "Ni podatkov",
+  "subheading": "Zmanjšanje števila ribiških plovil v državah Evropske unije za 13,5 % v letu 2024 pomeni skupno število 70.110.",
+  "legend1": "Ni na voljo podatkov",
   "tooltip1": "Ribiška plovila",
   "textSourceDescription": "Vir",
   "textSource": "Evropski parlament",
   "textNoteDescription": "Opomba",
-  "textNote": "Ribiška flota EU postaja vse manjša po številu, zmogljivosti in moči.",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textNote": "Ribiška flota EU se zmanjšuje po številu, zmogljivosti in moči.",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/european-fisheries-in-figures",
   "textCountryClick": "Kliknite za več informacij"
 }

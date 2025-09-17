@@ -1,12 +1,12 @@
 {
   "heading": "ELi kalalaevastik",
-  "subheading": "Kalalaevade arvu vähenemine 13,5% võrra Euroopa Liidu riikides 2024. aastal toob kaasa 70 110 laevade arvu.",
-  "legend1": "Andmed puuduvad",
+  "subheading": "Euroopa Liidu riikide kalalaevade arvu 13,5% vähendamine 2024. aastal annab kokku 70 110 laeva.",
+  "legend1": "Andmed pole saadaval",
   "tooltip1": "Kalalaevad",
   "textSourceDescription": "Allikas",
   "textSource": "Euroopa Parlament",
   "textNoteDescription": "Märkus",
-  "textNote": "ELi kalalaevastik väheneb arvult, võimsuselt ja võimsuselt.",
+  "textNote": "ELi kalalaevastik väheneb nii arvuliselt, mahutavuselt kui ka võimsuselt.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/european-fisheries-in-figures",
   "textCountryClick": "Lisateabe saamiseks klõpsake"
