@@ -1,13 +1,13 @@
 {
   "heading": "Die Fischereiflotte der EU",
-  "subheading": "Eine Reduzierung der Fischereifahrzeuge in den Ländern der Europäischen Union um 13,5 % im Jahr 2024 führt zu einer Gesamtzahl von 70.110.",
+  "subheading": "Eine Reduzierung der Fischereifahrzeuge um 20 % in den Ländern der Europäischen Union bis 2025 führte zu einer Gesamtzahl von 56.070, gegenüber 70.110 im Jahr 2024.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "Fischereifahrzeuge",
   "textSourceDescription": "Quelle",
   "textSource": "Europäisches Parlament",
   "textNoteDescription": "Notiz",
-  "textNote": "Die Zahl, Kapazität und Leistung der EU-Fischereiflotte nimmt ab.",
-  "textDataAccess": "Zugriff auf die Daten",
+  "textNote": "Die EU-Fischereiflotte wird immer kleiner, sowohl was die Anzahl als auch die Kapazität und Leistung betrifft.",
+  "textDataAccess": "Greifen Sie auf die Daten zu.",
   "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/european-fisheries-in-figures",
-  "textCountryClick": "Klicken Sie hier für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen."
 }

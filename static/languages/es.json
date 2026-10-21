@@ -1,13 +1,13 @@
 {
   "heading": "La flota pesquera de la UE",
-  "subheading": "Una reducción del 13,5% de los buques pesqueros en los países de la Unión Europea en 2024 dará como resultado un número total de 70.110.",
+  "subheading": "La reducción del 20% en el número de buques pesqueros en los países de la Unión Europea en 2025 dio como resultado una cifra total de 56.070, frente a los 70.110 de 2024.",
   "legend1": "No hay datos disponibles",
-  "tooltip1": "Buques pesqueros",
+  "tooltip1": "buques pesqueros",
   "textSourceDescription": "Fuente",
   "textSource": "Parlamento Europeo",
   "textNoteDescription": "Nota",
-  "textNote": "La flota pesquera de la UE es cada vez menor en número, capacidad y potencia.",
+  "textNote": "La flota pesquera de la UE está disminuyendo en número, capacidad y potencia.",
   "textDataAccess": "Acceder a los datos",
   "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/european-fisheries-in-figures",
-  "textCountryClick": "Haga clic para más información"
+  "textCountryClick": "Haz clic para obtener más información."
 }

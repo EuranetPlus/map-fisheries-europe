@@ -1,13 +1,13 @@
 {
   "heading": "La flotte de pêche de l'UE",
-  "subheading": "Une réduction de 13,5 % du nombre de navires de pêche dans les pays de l’Union européenne en 2024 se traduit par un nombre total de 70 110.",
+  "subheading": "Une réduction de 20 % du nombre de navires de pêche dans les pays de l'Union européenne en 2025 a abouti à un nombre total de 56 070, contre 70 110 en 2024.",
   "legend1": "Aucune donnée disponible",
-  "tooltip1": "Les bateaux de pêche",
+  "tooltip1": "navires de pêche",
   "textSourceDescription": "Source",
   "textSource": "Parlement européen",
   "textNoteDescription": "Note",
-  "textNote": "La flotte de pêche de l’UE diminue en nombre, en capacité et en puissance.",
+  "textNote": "La flotte de pêche de l'UE se réduit en nombre, en capacité et en puissance.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/la-peche-europeenne-en-chiffres",
+  "linkDataAccess": "https://www.europarl.europa.eu/factsheets/en/sheet/122/european-fisheries-in-figures",
   "textCountryClick": "Cliquez pour plus d'informations"
 }
